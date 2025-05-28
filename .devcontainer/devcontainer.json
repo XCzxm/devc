@@ -3,7 +3,7 @@
 {
 	"name": "Debian",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "lscr.io/linuxserver/webtop:latest"
+	"image": "linuxserver/webtop:ubuntu-xfce"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
